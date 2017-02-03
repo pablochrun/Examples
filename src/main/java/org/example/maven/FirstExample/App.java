@@ -10,8 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! commit from eclipse" );
-        
-        Gson gson = new Gson();
+        System.out.println( "Hello World! third commit from posh-git" );
+                
     }
 }
