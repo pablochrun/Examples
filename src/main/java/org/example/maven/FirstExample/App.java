@@ -11,6 +11,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World! third commit from posh-git" );
+		System.out.println( "ey, commit from altran" );
                 
     }
 }
